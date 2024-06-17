@@ -1,0 +1,14 @@
+{
+  "name": "ministore",
+  "version": "1.0.0",
+  "description": "A Store for starting development quickly based on Zustand",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/chrome": "^0.0.268",
+    "fast-deep-equal": "^3.1.3",
+    "flatten-anything": "^4.0.1",
+    "rfdc": "^1.4.1",
+    "zustand": "^4.5.2"
+  }
+}
